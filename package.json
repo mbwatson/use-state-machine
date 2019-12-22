@@ -8,7 +8,7 @@
     "url": "https://github.com/mbwatson/use-state-machine"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
+    "react": "^16.8.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
